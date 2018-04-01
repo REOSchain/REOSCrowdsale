@@ -1,1 +1,1 @@
-# RESOCrowdsale
+# REOSCrowdsale
